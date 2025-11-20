@@ -25,7 +25,7 @@ I thrive in fast-paced environments where **precision, performance, and creativi
 ---
 
 ### 🏁 Projects in the Fast Lane
-- 🏆 **ARC – Smart India Hackathon Finalist** → Price estimation model using public datasets  
+ 
 - 🧠 **AI for OT Security** → ML-based anomaly detection in industrial systems  
 - 📊 **F1 Data Dashboard** → Racing insights from 2010–2025 with visuals  
 - 🎭 **Literary Resume** → Creative personal branding through web design  
