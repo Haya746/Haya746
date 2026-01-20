@@ -34,6 +34,7 @@ I thrive in fast-paced environments where **precision, performance, and creativi
 ---
 
 ### 🏅 Wins & Recognitions
+- Finalist — **SIH 2025 (ISRO) ** (Top 5 among 200+ teams)
 - 1st Place — **Breach 2025 Fintech Hackathon** (Top among 460+ teams)
 - Google, IBM, Microsoft, Oracle certifications in Data, AI & UX
 - Published blogs and ongoing research on Data Bias in UX  
