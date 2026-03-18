@@ -1,57 +1,77 @@
-# 👋 Hi, I'm Haya! 
+# 👋 Hi, I'm Haya
 
-🚀 **Aspiring Data Engineer | UX Designer | AI/ML Enthusiast | Motorsport Lover**  
+🚀 Data Engineering | AI/ML Systems | UX Design | Motorsport Analytics  
 
-I’m a Computer Science Engineering student passionate about turning **data into decisions** and **design into delightful experiences**.  
-I thrive in fast-paced environments where **precision, performance, and creativity** meet — much like the world of Formula 1. 🏎️✨  
-
----
-
-### 🔹 What I Do  
-- 📊 Build data-driven solutions using Python, SQL, Pandas & visualization tools  
-- 🎨 Design intuitive interfaces with Figma & Adobe XD  
-- 🤖 Explore AI/ML applications for real-world impact  
-- 🔐 Research cybersecurity for OT/ICS systems  
+I build systems that turn **data into decisions** and **ideas into working products**.  
+My work focuses on **data pipelines, machine learning, and user-centered systems** designed for performance, clarity, and real-world impact.
 
 ---
 
-### 🔧 Tech Stack
-**Languages:** Python, C/C++, Java, SQL  
-**Data Tools:** Jupyter Notebook, Pandas, NumPy, Tableau  
-**Design Tools:** Figma, Adobe XD  
-**Web:** HTML, CSS, JavaScript  
-**Exploring:** MLOps, Cloud (OCI), Generative AI, Computer Vision  
+## ⚙️ What I Work On
+
+- 📊 Data pipelines, analytics systems, and dashboards  
+- 🤖 Machine learning models (regression, classification, anomaly detection)  
+- 🎨 UX-driven applications with intuitive interfaces  
+- 🔐 AI + cybersecurity systems for real-world environments  
+- 🏎️ Motorsport-inspired data analysis and performance visualization  
 
 ---
 
-### 🏁 Projects in the Fast Lane
- 
-- 🧠 **AI for OT Security** → ML-based anomaly detection in industrial systems  
-- 📊 **F1 Data Dashboard** → Racing insights from 2010–2025 with visuals  
-- 🎭 **Literary Resume** → Creative personal branding through web design  
-- 🎯 **Emoji Matcher** → Fun ice-breaking tool for team collaboration  
+## 🧠 Tech Stack
+
+**Languages**  
+Python • SQL • C/C++ • Java  
+
+**Data & ML**  
+Pandas • NumPy • Scikit-learn • TensorFlow • Jupyter  
+
+**Tools & Platforms**  
+Tableau • Figma • Git • Vercel • OCI  
+
+**Concepts**  
+Data Pipelines • Feature Engineering • Model Evaluation • MLOps • NLP  
 
 ---
 
-### 🏅 Wins & Recognitions
-- Finalist — **SIH 2025 (ISRO) ** (Top 5 among 200+ teams)
-- 1st Place — **Breach 2025 Fintech Hackathon** (Top among 460+ teams)
-- Google, IBM, Microsoft, Oracle certifications in Data, AI & UX
-- Published blogs and ongoing research on Data Bias in UX  
+## 🏁 Selected Projects
+
+### 🔹 InfraNova – AI Revenue & Voice Copilot (HACKaMINeD 2025)
+Built a dual-module system combining revenue analytics and voice ordering using NLP, association rule mining, and PoS integration to improve order efficiency and upselling.
+
+### 🔹 Thermal-to-Satellite Image Mapping (ISRO – SIH 2025)
+Developing a computer vision pipeline to enhance thermal imagery using satellite data for improved resolution and environmental analysis.
+
+### 🔹 F1 Performance Dashboard
+Interactive dashboard analyzing race data, driver performance, and trends across seasons using Python and visualization tools.
+
+### 🔹 AI-Based OT Security System
+Machine learning model for anomaly detection in industrial systems (ICS/SCADA) to improve real-time threat monitoring.
+
+### 🔹 The Ribbon – Digital Typewriter
+A collaborative browser-based writing platform with custom text rendering, Canvas-based exports, and immersive audio experience.
 
 ---
 
-### ✨ Fun Facts
-- 🏎️ Extreme F1 nerd — strategy & telemetry fascinate me  
-- 🎸 I write and perform original music  
-- 📚 I love storytelling through code and design  
-- 🌍 Always curious & learning something new  
+## 🏆 Achievements
+
+- 🥇 1st Place — Breach 2025 Fintech Hackathon (460+ teams)  
+- 🏁 SIH 2025 (ISRO) Finalist — Top 5 among 200+ teams  
+- 🎓 Certifications from Stanford, Johns Hopkins, Oracle, Google, IBM  
 
 ---
 
-### 🌐 Let’s Connect!
-📌 **Portfolio / Resume:** *QR code coming soon*  
-🔗 **LinkedIn:** www.linkedin.com/in/haya-sachin  
-📝 **Medium:** medium.com/@hayasachin7  
+## 📚 Currently Exploring
 
-🚀 *Open to collaborations, mentorship, and exciting opportunities!*  
+- Scalable Data Engineering & Distributed Systems  
+- MLOps and production ML pipelines  
+- Real-time analytics (inspired by motorsport telemetry)  
+- AI applications in cybersecurity and infrastructure  
+
+---
+
+## 🌐 Connect
+
+🔗 LinkedIn: www.linkedin.com/in/haya-sachin  
+📝 Medium: medium.com/@hayasachin7  
+
+🚀 Open to internships, collaborations, and building impactful systems
