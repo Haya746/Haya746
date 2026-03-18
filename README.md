@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Haya
+# 👋🏻 Hi, I'm Haya
 
 🚀 Data Engineering | AI/ML Systems | UX Design | Motorsport Analytics  
 
