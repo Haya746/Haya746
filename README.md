@@ -1,77 +1,125 @@
-# 👋🏻 Hi, I'm Haya
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11,17,24&height=180&section=header&text=Hi%20%F0%9F%8E%80%2C%20I%27m%20Haya%20Sachin&fontSize=36&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 
-🚀 Data Engineering | AI/ML Systems | UX Design | Motorsport Analytics  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer+%7C+UX+Designer+%7C+AI%2FML+Builder;Turning+Data+into+Decisions+%F0%9F%9A%80;SIH+2025+ISRO+Finalist+%7C+Breach+2025+Winner+%F0%9F%8F%86;B.Tech+CSE+%40+GLS+University" alt="Typing SVG" />
+  </a>
+</p>
 
-I build systems that turn **data into decisions** and **ideas into working products**.  
-My work focuses on **data pipelines, machine learning, and user-centered systems** designed for performance, clarity, and real-world impact.
+<img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="100%"/>
 
----
+<br/>
 
-## ⚙️ What I Work On
+<img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
-- 📊 Data pipelines, analytics systems, and dashboards  
-- 🤖 Machine learning models (regression, classification, anomaly detection)  
-- 🎨 UX-driven applications with intuitive interfaces  
-- 🔐 AI + cybersecurity systems for real-world environments  
-- 🏎️ Motorsport-inspired data analysis and performance visualization  
+<p align="justify">
+I'm a Data Engineer & UX Designer who builds systems where <strong>performance meets creativity</strong>. From thermal imaging pipelines for ISRO to AI-powered voice copilots for restaurants, I work end-to-end — data, models, interfaces, and stories. Passionate about motorsport analytics, ethical AI, and design that actually works for real people.
+</p>
 
----
+<br/><br/>
 
-## 🧠 Tech Stack
+<h2>About Me</h2>
 
-**Languages**  
-Python • SQL • C/C++ • Java  
+- 🏎️ Building **motorsport analytics dashboards & real-time data systems**
+- 🤖 Working on **AI for OT security (ICS/SCADA) & anomaly detection**
+- 🎨 Designing **user-centered interfaces** that make data feel intuitive
+- 💬 Ask me about **Data Pipelines, ML, Figma, UX Research**
+- 📝 I write about data, design & tech on [Medium](https://medium.com/@hayasachin7)
+- 📫 Reach me at **hayasachin@gmail.com**
+- ⚡ Fun fact: I compose songs AND debug pipelines — often on the same day
 
-**Data & ML**  
-Pandas • NumPy • Scikit-learn • TensorFlow • Jupyter  
+<br/>
 
-**Tools & Platforms**  
-Tableau • Figma • Git • Vercel • OCI  
+<h2 align="center">Languages and Tools</h2>
 
-**Concepts**  
-Data Pipelines • Feature Engineering • Model Evaluation • MLOps • NLP  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,sql,sklearn,tensorflow,fastapi,figma,git,github,jupyter,tableau,docker,aws&perline=12" alt="Tech Stack"/>
+</p>
 
----
+<br/>
 
-## 🏁 Selected Projects
+<h2 align="center">🏆 Achievements</h2>
 
-### 🔹 InfraNova – AI Revenue & Voice Copilot (HACKaMINeD 2025)
-Built a dual-module system combining revenue analytics and voice ordering using NLP, association rule mining, and PoS integration to improve order efficiency and upselling.
+<p align="center">
+  🥇 <strong>1st Place</strong> — Breach 2025 Fintech Hackathon (460+ teams, PDEU) &nbsp;|&nbsp;
+  🚀 <strong>SIH 2025 Finalist</strong> — ISRO Problem Statement (Top 5 / 200+ teams)
+</p>
+<p align="center">
+  Participant — Prayatna 3.0 &nbsp;|&nbsp; Hack Innovate 2026 &nbsp;|&nbsp; Odoo × Adani Hackathon 2026 &nbsp;|&nbsp; HackerRamp WeForShe (Myntra)
+</p>
 
-### 🔹 Thermal-to-Satellite Image Mapping (ISRO – SIH 2025)
-Developing a computer vision pipeline to enhance thermal imagery using satellite data for improved resolution and environmental analysis.
+<br/>
 
-### 🔹 F1 Performance Dashboard
-Interactive dashboard analyzing race data, driver performance, and trends across seasons using Python and visualization tools.
+<h2 align="center">🔖 Selected Projects</h2>
 
-### 🔹 AI-Based OT Security System
-Machine learning model for anomaly detection in industrial systems (ICS/SCADA) to improve real-time threat monitoring.
+| Project | Description | Stack |
+|---|---|---|
+| 🌡️ **Thermal-Optical Heatmap** *(SIH-ISRO 2025)* | Hybrid deep learning pipeline enhancing thermal imagery using cross-modal attention fusion for wildfire & urban heat detection | Python, CV, Deep Learning |
+| 🍽️ **PetPooja AI Copilot** *(HACKaMINeD 2025)* | Full-stack AI copilot for restaurants — PoS analytics + multilingual voice ordering (Hindi/Hinglish/English) | Python, NLP, Apriori |
+| 🏎️ **F1 Data Dashboard** *(Ongoing)* | Interactive viz of F1 race stats (2010–2025): driver comparisons, performance trends, track insights | Python, Pandas, Plotly |
+| 📊 **Zomato Live Dashboard** | End-to-end analytics pipeline with FastAPI backend, REST endpoints & live ngrok-served dashboard | Python, FastAPI, Jupyter |
+| 🔐 **OT Security via AI/ML** *(Ongoing)* | Anomaly detection in ICS/SCADA networks using ML models for real-time threat prediction | Python, ML, Cybersecurity |
+| 🎀 **The Ribbon** | Collaborative browser-based digital typewriter — Canvas export, ambient sound, multi-author handoff | HTML, CSS, JS |
 
-### 🔹 The Ribbon – Digital Typewriter
-A collaborative browser-based writing platform with custom text rendering, Canvas-based exports, and immersive audio experience.
+<br/>
 
----
+<h2 align="center">📜 Certifications</h2>
 
-## 🏆 Achievements
+<p align="center">
+  🎓 Machine Learning Specialization — <strong>Stanford & DeepLearning.AI</strong><br/>
+  ☁️ OCI Data Science Professional — <strong>Oracle</strong><br/>
+  📊 Google Data Analytics Professional — <strong>Google / Coursera</strong><br/>
+  🎨 Google UX/UI Design Professional — <strong>Google / Coursera</strong><br/>
+  🤖 Generative AI Essentials — <strong>Microsoft & LinkedIn</strong><br/>
+  📐 Mathematical Biostatistics Boot Camp — <strong>Johns Hopkins</strong><br/>
+  🐍 Python for Data Science, AI & Development — <strong>IBM / Coursera</strong>
+</p>
 
-- 🥇 1st Place — Breach 2025 Fintech Hackathon (460+ teams)  
-- 🏁 SIH 2025 (ISRO) Finalist — Top 5 among 200+ teams  
-- 🎓 Certifications from Stanford, Johns Hopkins, Oracle, Google, IBM  
+<br/>
 
----
+<h2 align="center">Connect With Me</h2>
 
-## 📚 Currently Exploring
+<p align="center">
+  <a href="https://www.linkedin.com/in/haya-sachin" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:hayasachin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://medium.com/@hayasachin7" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/hayaa_sachin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/booktalkwithhayaa/" target="_blank">
+    <img src="https://img.shields.io/badge/📚 BookTalk-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Bookstagram"/>
+  </a>
+</p>
 
-- Scalable Data Engineering & Distributed Systems  
-- MLOps and production ML pipelines  
-- Real-time analytics (inspired by motorsport telemetry)  
-- AI applications in cybersecurity and infrastructure  
+<br/>
 
----
+<h2 align="center">GitHub Contributions</h2>
 
-## 🌐 Connect
+<br/>
 
-🔗 LinkedIn: www.linkedin.com/in/haya-sachin  
-📝 Medium: medium.com/@hayasachin7  
+<p align="center">
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haya746&theme=tokyonight" alt="Stats"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haya746&theme=tokyonight" alt="Top Languages"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haya746&theme=tokyonight" alt="Most Commit Language"/>
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Haya746&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</p>
 
-🚀 Open to internships, collaborations, and building impactful systems
+<p align="center">
+  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Haya746&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Haya746&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11,17,24&height=100&section=footer"/>
+</p>
